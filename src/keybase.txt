@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/uesteibar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://uesteibar.com
+  * I am uesteibar (https://keybase.io/uesteibar) on keybase.
+  * I have a public key with fingerprint 629A D6B2 64F4 1E55 9A5E  93B0 7259 EF85 33CB 6FF0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018cc63d5f76c061a12aea47dc85bba01543799c110c413cb7748c4d93f2d559630a",
+      "fingerprint": "629ad6b264f41e559a5e93b07259ef8533cb6ff0",
+      "host": "keybase.io",
+      "key_id": "7259ef8533cb6ff0",
+      "kid": "01018cc63d5f76c061a12aea47dc85bba01543799c110c413cb7748c4d93f2d559630a",
+      "uid": "1f71e9c975a3e8a596909eb459182219",
+      "username": "uesteibar"
+    },
+    "merkle_root": {
+      "ctime": 1520699282,
+      "hash_meta": "ff9faccd8b18f4dda899ff6903342935c0f1118371d0eb1813695a9e54586d5a",
+      "seqno": 2215807
+    },
+    "revoke": {
+      "sig_ids": [
+        "820a65f3ffc7c32d7c803729971fe2f5dd4526b235c9ec221295049f5e5b7db90f"
+      ]
+    },
+    "service": {
+      "hostname": "uesteibar.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1520699320,
+  "expire_in": 157680000,
+  "prev": "0523074208a2bace036f6127274bcbb5ce2af85d3ff2198457d94dd21585245c",
+  "seqno": 53,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMK0AnicrZNfaBxFHMcvNTX1JJhCHmKVQteqCDHMn52dmSNEBMEe6ItgC432mL+X
+9XK3597makjuoaLUEhKQ+JBSo9TUNiK+aLEqJQ2HhdIgoiIxGEnxP4Zq1Yq2ktTZ
+oIjio/uy7M739/195/Obebf9uky25ZOOvlumPp38uWWhuX8os/dY21sjnoz0sJcb
+8Upm42UGtaklhVKovZwHIIBMqQBrYmmgQAAFRMIIn2rFiJQCQOJjyrmCECgfYiUp
+9ZnyNccWaUJ4gIHwuj0bVoomrsZhJXG2AeJCBxIFvvWhcSpBDMcSUES4sYxg5xNY
+C1zhQFRLK1w4KWqmJ4zcP/dR2Ij3H/r/OffQhh20FBquOCUCGybcKgfcSJ9wyBCC
+PBXWTFwRZePUQ46fCaWIvUa3VzZxadAU4ihKUroqCVMNJAgEnCOG3A5FbaBQNolw
+pdZyK5TSTEJmfa0F49xa1w1jH3FMFLAQQoYp1MA4DcQBJ4Ib4hMWaJImrpnHK5GX
+c7EIA9QliE09Kpm0eS0sOm41L9fvMQREQCy2VlGFkaaKAUwR5xRagyzR2ifITci1
+5EY5M8QJ8LklhkiqJQfWe7SRNovrodowTwf1bwA9Kiq7SNU4SiIVDbqlgSSp5lIu
+yXA1le43svCnSUGGFe2OiSuom7gWRhXHySn/iQwj0O2ZJ6phbAphqiA0YMA9aRtT
+T2dPEAbUR4AJJIUyAAc2gIgi6kslJVEGCXdmtNu7Gx3zCdXcoU55EeQT9TdDgl1O
+UXSejlxFJEOx8RrN+UdaMy3ZzPWbN6X3J5O9oeOvW3WmtW39np9+We989sGOie9t
+1/zMqyfQm4cPnhqePr2qfiwfyT/WLseXulpP3naJffPh+ytx357Voa/mpvvHstsW
+u74Im0+f/HLw7JNtExf6d672BqXmrs47n39t103XSg80145Mbfn17vYDp6+Mnt/d
++GBm/KW52fzR8Nv8C13FhXMPV+Zmxj4/hg7ug9fojqW+i9mndm+d3Hl8evyH0v2b
+4NjLC5ev7NhafftC45Xlw2u9exZ7PlscuUquXrz58hivD9x16Tu1NHtu9fbf3tj2
+3MShU/z1e/du3r5w3/x7k18fahte8W588cxyET50YJbdutz7zHpmX35q/p38iY/b
+W5qjR38fvWNl+9p4suX4R51/AJj6hzw=
+=01cf
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/uesteibar
+
+==================================================================
+
