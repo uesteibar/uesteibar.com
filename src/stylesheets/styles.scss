@@ -1,1 +1,86 @@
-// Add your styles here
+// Load CSS Reset from NPM
+@import "~normalize.css";
+@import "./fonts.scss";
+
+body {
+  font-family: 'overpass-mono', sans-serif;
+  font-weight: 300;
+}
+
+.home {
+  min-height: 100vh;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.block {
+  padding: 16px;
+  max-width: 500px;
+}
+
+.title {
+  font-size: 24px;
+  margin-bottom: 32px;
+}
+
+.presentation {
+  font-size: 18px;
+  line-height: 1.3;
+
+  a {
+    color: #e800e0;
+    text-decoration: none;
+
+    &:hover {
+      font-weight: bold;
+    }
+
+    &::selection {
+      color: white;
+      background: rgba(232, 0, 224, 0.3);
+    }
+  }
+
+  em {
+    color: #e800e0;
+  }
+
+  &::selection {
+    background: rgba(232, 0, 224, 0.3);
+  }
+}
+
+.cursor {
+  content: " ";
+  opacity: 1;
+  width: 16px;
+  background: rgba(232, 0, 224, 0.6);
+  font-weight: bold;
+  animation: cursor 1s infinite;
+}
+
+@keyframes cursor {
+  0% {
+    opacity: 0;
+  }
+
+  40% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  90% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
