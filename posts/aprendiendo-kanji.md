@@ -88,6 +88,8 @@ Cada vez que revisas un elemento (radical, kanji o vocabulario) te piden una de 
 En este momento voy ya por el nivel 12 y noto que mi vocabulario y capacidad de leer han
 mejorado mucho.
 
+![wanikani profile](/img/wanikani.png)
+
 Un punto que considero que le falta a WaniKani es lo que se llama **producir**: dada una palabra
 en inglés, escribir su traducción en japonés. Como la comunidad online alrededor de aprender
 japonés es enorme (ありがとうございます 🙇), encontré esta maravilla llamada [KaniWani](https://kaniwani.com/),
@@ -98,7 +100,7 @@ clave en afianzar lo aprendido.
 Te animo a darle una oportunidad al sistema! Mi objetivo era conseguir algo que pueda hacer todos los días,
 y de momento lo estoy cumpliendo.
 
-![wanikani profile](/img/wanikani.png)
+![kaniwani en acción](/img/kaniwani.gif)
 
 P.D: si tienes un iPhone y quieres usar WaniKani en el móvil, te recomiendo la app [Tsurukame](https://apps.apple.com/us/app/tsurukame-for-wanikani/id1367114761).
 Para KaniWani puedes utilizar la web en el móvil y
