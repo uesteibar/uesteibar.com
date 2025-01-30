@@ -25,7 +25,11 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    padding: 0 16px;
+    padding: 16px;
+
+    img {
+        max-width: 100%;
+    }
 }
 
 .home {

@@ -1,7 +1,7 @@
 ---
 title: Aprendiendo kanji
 icon: 😱
-date: 2025-01-29
+date: 2025-01-30
 ---
 
 Creo que estamos de acuerdo en que aprender kanji da... miedito. Es tentador
@@ -72,10 +72,35 @@ diferencias:
         <div class="list-item-content">
         Los kanji están agrupados en <strong>radicales</strong> que te ayudan a recordarlos, y utiliza
         reglas nemotécnicas para ayudarte a recordar sus significados y pronunciaciones.
-        Puede que tu cerebro no funcione así, peeeeero para mí es una maravilla.
+        Puede que tu cerebro no funcione así, peeeeero para mí es una maravilla. Una vez sabes un radical,
+        te introduce <strong>kanji</strong> que se componen de radicales que ya conoces, y de esos kanji
+        te introduce <strong>vocabulario</strong> que se compone de esos kanji. Es un sistema muy bien pensado
+        y que se siente <strong>muy progresivo</strong>.
         </div>
     </div>
 </div>
 
+Cada vez que revisas un elemento (radical, kanji o vocabulario) te piden una de dos:
 
---- TBC
+1. **Pronunciación**: Te muestran el elemento y tienes que escribir la pronunciación.
+2. **Significado**: Te muestran el elemento y tienes que escribir el significado.
+
+En este momento voy ya en nivel 12 y noto que mi vocabulario y capacidad de leer han
+mejorado mucho.
+
+Un punto que considero que le falta a WaniKani es lo que se llama **producir**: dada una palabra
+en inglés, escribir su traducción en japonés. Como la comunidad online alrededor de aprender
+japonés es enorme (ありがとうございます 🙇), encontré esta maravilla llamada [KaniWani](https://kaniwani.com/),
+que se conecta con tu cuenta de WaniKani y utiliza el mismo sistema que WaniKani pero precisamente al revés:
+mira esta palabra en inglés, dímela en japonés. Es un complemento perfecto para WaniKani y lo considero
+clave en afianzar lo aprendido.
+
+Te animo a darle una oportunidad al sistema! Mi objetivo era conseguir algo que pueda hacer todos los días,
+y de momento lo estoy cumpliendo.
+
+![wanikani profile](/img/wanikani.png)
+
+P.D: si tienes un iPhone y quieres usar WaniKani en el móvil, te recomiendo la app [Tsurukame](https://apps.apple.com/us/app/tsurukame-for-wanikani/id1367114761).
+Para KaniWani puedes utilizar la web en el móvil y
+[añadirla a tu escritorio del iPhone](https://support.apple.com/es-es/guide/iphone/iph42ab2f3a7/ios#:~:text=A%C3%B1adir%20el%20icono%20de%20un%20sitio%20web%20a%20la%20pantalla%20de%20inicio,-Puedes%20a%C3%B1adir%20el&text=para%20acceder%20r%C3%A1pidamente.-,Abre%20la%20app%20Safari%20en%20el%20iPhone.,a%20la%20pantalla%20de%20inicio.&text=en%20la%20barra%20de%20men%C3%BAs,A%C3%B1adir%20a%20pantalla%20de%20inicio%E2%80%9D.)
+como si fuera una app.
