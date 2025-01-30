@@ -14,8 +14,8 @@ body {
         background: $selected !important;
     }
 
-    font-size: 16px;
-    font-weight: 400;
+    font-size: 18px;
+    font-weight: 300;
     line-height: 1.4;
 }
 
@@ -24,7 +24,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    min-height: calc(100vh - 32px);
     padding: 16px;
 
     img {
@@ -48,6 +48,7 @@ body {
     flex-direction: row-reverse;
     align-items: right;
     font-size: 14px;
+    font-weight: bold;
 }
 
 .dark-mode-notice {
@@ -78,12 +79,6 @@ body {
 
 .title {
     font-size: 14px;
-}
-
-.shares-title {
-    font-size: 18px;
-    margin-bottom: 32px;
-    font-weight: 300;
 }
 
 h2 {
@@ -119,6 +114,10 @@ a {
     &::selection {
         color: white;
     }
+
+    &:focus {
+        outline: 2px solid $accent;
+    }
 }
 
 .name {
@@ -133,6 +132,10 @@ a {
 strong {
     font-weight: 600;
     color: $accent;
+
+    &::selection {
+        color: white;
+    }
 }
 
 em {

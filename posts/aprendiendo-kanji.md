@@ -52,7 +52,7 @@ aprenderlos, y que había que tirar mucho de "fuerza bruta" para memorizarlos.
 Buscando por internet, encontré [WaniKani](https://www.wanikani.com/), una web
 que se centra en enseñarte kanji de manera ordenada y progresiva, empezando con los
 más sencillos (no necesariamente los más habituales o útiles) y avanzando poco a poco.
-Utiliza eun sistema de SRS (Spaced Repetition System) que Anki, pero hay dos grandes
+Utiliza el mismo sistema de SRS (Spaced Repetition System) que Anki, pero hay dos grandes
 diferencias:
 
 <div class="list">
@@ -85,7 +85,7 @@ Cada vez que revisas un elemento (radical, kanji o vocabulario) te piden una de 
 1. **Pronunciación**: Te muestran el elemento y tienes que escribir la pronunciación.
 2. **Significado**: Te muestran el elemento y tienes que escribir el significado.
 
-En este momento voy ya en nivel 12 y noto que mi vocabulario y capacidad de leer han
+En este momento voy ya por el nivel 12 y noto que mi vocabulario y capacidad de leer han
 mejorado mucho.
 
 Un punto que considero que le falta a WaniKani es lo que se llama **producir**: dada una palabra
