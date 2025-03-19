@@ -32,7 +32,20 @@ body {
     }
 }
 
+.sub-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.me {
+    height: inherit;
+}
+
 .home {
+    min-width: 300px;
     max-width: 600px;
     display: flex;
     flex-wrap: wrap;

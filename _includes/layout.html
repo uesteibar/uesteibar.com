@@ -8,18 +8,24 @@
     </head>
     <body>
         <div class="container">
-            <div>
-                <header>
-                    <h1 class="title">
-                        {{icon}} {{ title}} <span class="cursor">&nbsp;</span>
-                    </h1>
-                </header>
-                <main class="home">{{ content }}</main>
-                {%- if not home %}
-                <footer class="footer">
-                    <a href="/" title="Ir al home">🏠に帰る</a>
-                </footer>
-                {%- endif -%}
+            <div class="sub-container">
+                <div>
+                    <header>
+                        <h1 class="title">
+                            {{icon}} {{ title}}
+                            <span class="cursor">&nbsp;</span>
+                        </h1>
+                    </header>
+                    <main class="home">{{ content }}</main>
+                    {%- if not home %}
+                    <footer class="footer">
+                        <a href="/" title="Ir al home">🏠に帰る</a>
+                    </footer>
+                    {%- endif -%}
+                </div>
+                <div>
+                    <img class="me" src="/img/me.png" />
+                </div>
             </div>
         </div>
     </body>
