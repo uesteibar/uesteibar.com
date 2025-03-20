@@ -1,19 +1,7 @@
 ---
 home: true
 layout: layout.html
-title: ようこそ!
-icon: 👋
+title: ウナイ
 ---
 
-{% for post in collections.post reversed %}
-<div class="post-item">
-    <div><h2>{{post.data.icon}}</h2></div>
-    <div class="icon-block"><h2>▶︎</h2></div>
-    <div>
-        <h2>
-            <a href="{{ post.url }}">{{ post.data.title }}</a>
-        </h2>
-        <p class="date">{{ post.date | date: "%Y-%m-%d" }}</p>
-    </div>
-</div>
-{% endfor %}
+<img class="me" src="/img/me.png" />

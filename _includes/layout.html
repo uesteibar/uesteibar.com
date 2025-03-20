@@ -3,30 +3,11 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" type="image/x-icon" href="/img/favicon.ico" />
         <link rel="stylesheet" type="text/css" href="/css/styles.css" />
-        <title>{{ title}}</title>
+        <title>{{ title }}</title>
     </head>
     <body>
-        <div class="container">
-            <div class="sub-container">
-                <div>
-                    <header>
-                        <h1 class="title">
-                            {{icon}} {{ title}}
-                            <span class="cursor">&nbsp;</span>
-                        </h1>
-                    </header>
-                    <main class="home">{{ content }}</main>
-                    {%- if not home %}
-                    <footer class="footer">
-                        <a href="/" title="Ir al home">🏠に帰る</a>
-                    </footer>
-                    {%- endif -%}
-                </div>
-                <div>
-                    <img class="me" src="/img/me.png" />
-                </div>
-            </div>
-        </div>
+        <div class="container">{{content}}</div>
     </body>
 </html>
